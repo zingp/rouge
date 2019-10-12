@@ -10,7 +10,7 @@ cd rouge/ROUGE-1.5.5
 ./runROUGE-test.pl  
 
 if error:  
-    Cannot open exception db file for reading: data/WordNet-2.0.exc.db  
+>>>>Cannot open exception db file for reading: data/WordNet-2.0.exc.db  
 ```
 cd data
 rm WordNet-2.0.exc.db
